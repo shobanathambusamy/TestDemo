@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="POM" parallel="methods" thread-count="2">
+
+	
+
+ 
+ 
+ 
+<!-- 
+you can give any value to parallel attribute 
+ parallel="tests"
+ parallel="classes"
+ parallel="methods"
+ parallel="instances"
+  -->
+
+	<test name="POM">
+		<classes>
+			<class name="com.apex.ecommerce.login.LoginTest"></class>
+			<class name="com.apex.ecommerce.registration.RegistrationTest"></class>
+		
+		
+
+		</classes>
+	</test>
+
+ </suite>
+ 
+ 

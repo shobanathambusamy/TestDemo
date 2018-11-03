@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="POM" duration-ms="11072" started-at="2018-10-31T15:59:36Z" finished-at="2018-10-31T15:59:47Z">
+    <groups>
+    </groups>
+    <test name="POM" duration-ms="11072" started-at="2018-10-31T15:59:36Z" finished-at="2018-10-31T15:59:47Z">
+      <class name="com.apex.ecommerce.login.LoginTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.apex.ecommerce.login.LoginTest@1bce4f0a]" name="beforeTest" is-config="true" duration-ms="4445" started-at="2018-10-31T15:59:36Z" finished-at="2018-10-31T15:59:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="login_pass1()[pri:0, instance:com.apex.ecommerce.login.LoginTest@1bce4f0a]" name="login_pass1" duration-ms="3412" started-at="2018-10-31T15:59:40Z" finished-at="2018-10-31T15:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_pass1 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.apex.ecommerce.login.LoginTest@1bce4f0a]" name="cleanUp" is-config="true" duration-ms="148" started-at="2018-10-31T15:59:44Z" finished-at="2018-10-31T15:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.apex.ecommerce.login.LoginTest -->
+      <class name="com.apex.ecommerce.registration.RegistrationTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@5e3a8624]" name="beforeTest" is-config="true" duration-ms="4974" started-at="2018-10-31T15:59:36Z" finished-at="2018-10-31T15:59:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="registrationTest_pass1()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@5e3a8624]" name="registrationTest_pass1" duration-ms="5908" started-at="2018-10-31T15:59:41Z" finished-at="2018-10-31T15:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationTest_pass1 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.apex.ecommerce.registration.RegistrationTest@5e3a8624]" name="cleanUp" is-config="true" duration-ms="140" started-at="2018-10-31T15:59:47Z" finished-at="2018-10-31T15:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.apex.ecommerce.registration.RegistrationTest -->
+    </test> <!-- POM -->
+  </suite> <!-- POM -->
+</testng-results>
