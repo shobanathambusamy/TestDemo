@@ -18,7 +18,7 @@ import com.apex.ecommerce.order.page.ShoppingCartPage;
 public class OrderTest extends ApexBaseTest {
 	@Test
 	public void orderSummaryTest() {
-
+//hi
 		// step 1: Create the page
 		LoginPage page = new LoginPage(driver);
 		// step 2: perform action
