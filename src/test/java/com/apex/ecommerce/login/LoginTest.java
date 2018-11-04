@@ -8,7 +8,7 @@ import com.apex.ecommerce.login.page.LoginPage;
 public class LoginTest extends ApexBaseTest{
   @Test
   public void login_pass1() {
-	  
+	  //hi
 	 
 	  //step 1: Create the page
 	  LoginPage page = new LoginPage(driver);
