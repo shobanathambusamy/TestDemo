@@ -7,6 +7,7 @@ import com.apex.ecommerce.login.page.LoginPage;
 import com.apex.ecommerce.registration.page.RegistrationPage;
 
 public class RegistrationTest extends ApexBaseTest {
+	//hi
 	@Test
 	public void registrationTest_pass1() {
 
